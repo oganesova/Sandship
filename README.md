@@ -1,4 +1,6 @@
 ![image](https://github.com/oganesova/Sandship/assets/91662679/2740666a-6009-44d8-960f-3b4b045ca94f)
+
+
 Hello dear Rockbite team.
 I am sending the project made by me according to your points.
 I am attaching a photo where I have shown with a specific example in the Main class that the program works exactly.
