@@ -1,4 +1,5 @@
 ![image](https://github.com/oganesova/Sandship/assets/91662679/2740666a-6009-44d8-960f-3b4b045ca94f)
+![image](https://github.com/oganesova/Sandship/assets/91662679/cc8e7a7b-799c-41a7-8286-1f9d46bae5d9)
 
 
 Hello dear Rockbite team.
